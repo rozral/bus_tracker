@@ -1,0 +1,16 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    background-color: #497D48;
+}
+
+#map {
+    height: 100%;
+    width: 100%;
+    background-color: #497D48;
+}
+
+.leaflet-div-icon {
+    background-color: transparent;
+    border-color: transparent;
+}
